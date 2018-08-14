@@ -60,6 +60,10 @@ Much of that will look like gobbledygook, and that's fine for now, but it's
 and view their page source. You will see that **behind that product you love
 are a collection of HTML text**, or **HTML documents**.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-the-web-is-made-of-strings/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-the-web-is-made-of-strings/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [Wikipedia home page](https://en.wikipedia.org/)
